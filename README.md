@@ -1,8 +1,10 @@
 # Text-Classification-System
 The primary objective of this project was to develop a robust text classification system capable of accurately categorizing news articles into predefined categories such as Business, Entertainment, Politics, Sport, and Tech.
 # 1. Data Loading:
-Description: Loaded data from multiple folders, where each folder represents a different category.
-Explanation: The project starts by collecting data from text files, organized in folders. Each folder corresponds to a specific category (business, entertainment, politics, sport, tech). This simulates a real-world scenario where data is often organized in directories.
+## Description:
+Loaded data from multiple folders, where each folder represents a different category.
+## Explanation: 
+The project starts by collecting data from text files, organized in folders. Each folder corresponds to a specific category (business, entertainment, politics, sport, tech). This simulates a real-world scenario where data is often organized in directories.
 # 2. Data Cleaning and Exploration:
 Description: Checked for missing values and duplicates, and visualized the distribution of categories.
 Explanation: Ensured data quality by handling missing values and removing duplicates. Visualization provides a quick overview of data distribution, offering insights into the dataset.
