@@ -50,3 +50,7 @@ Prepared the model and vectorizer for later use in deployment. Serialization all
 Developed a simple web app using Streamlit for model deployment.
 ## Explanation: 
 Streamlit facilitates the creation of interactive web applications. It's used here to provide a user-friendly interface for making predictions with the trained model.
+
+## FINAL OUTPUT
+![Uploading image.png…]()
+
